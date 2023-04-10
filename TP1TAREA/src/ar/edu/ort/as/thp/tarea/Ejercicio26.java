@@ -1,5 +1,9 @@
 package ar.edu.ort.as.thp.tarea;
+/*
+26. Realizá un programa que permita al usuario ingresar un número natural n. La computadora debe mostrar los primeros n múltiplos de 3 excepto aquellos
+que sean a la vez múltiplos de 5. 
 
+*/
 import java.util.Scanner;
 
 public class Ejercicio26 {
