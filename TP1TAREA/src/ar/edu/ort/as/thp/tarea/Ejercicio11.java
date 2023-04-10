@@ -1,5 +1,11 @@
 package ar.edu.ort.as.thp.tarea;
 
+/*
+11. Realizá un programa que permita ingresar un número entero e indique si se trata de un 
+número par o impar.
+
+*/
+
 import java.util.Scanner;
 
 public class Ejercicio11 {
