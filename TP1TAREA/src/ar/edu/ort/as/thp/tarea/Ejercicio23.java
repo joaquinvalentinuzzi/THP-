@@ -1,4 +1,10 @@
 package ar.edu.ort.as.thp.tarea;
+/*
+23. Realizá un programa que permita ingresar un número entero n. Debe mostrar los primeros 
+10 múltiplos de n (desde 1 x n). 
+
+*/
+
 
 import java.util.Scanner;
 
