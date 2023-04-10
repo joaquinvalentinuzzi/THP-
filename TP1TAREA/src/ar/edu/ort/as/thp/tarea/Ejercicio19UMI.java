@@ -1,8 +1,17 @@
 package ar.edu.ort.as.thp.tarea;
 /*
-18. Realizá un programa que permita al usuario ingresar dos números enteros. 
-La computadora debe indicar si el mayor es divisible por el menor.
-(Un número entero a es divisible por un número entero b cuando el resto de la división entre aybes 0
+19. Existen dos reglas que identifican dos conjuntos de valores: 
+a. El número es de un solo dígito. 
+b. El número es impar. 
+Trabajo Práctico N° 1 
+A partir de estas reglas, realizá un programa que permita ingresar un número entero.
+ Debe asignar el valor que corresponda a las variables booleanas esDeUnSoloDigito, esImpar,
+ estaEnAmbosGrupos y noEstaEnNingunGrupo el valor Verdadero o Falso, según corresponda, 
+para indicar si el valor número ingresado pertenece o no a cada conjunto. 
+Al terminar el programa debe informar el número cargado y las cuatros variables lógicas.
+Definí un lote de prueba de varios números y probá el algoritmo, escribiendo los resultados tal como se hizo en los
+ejercicios anteriores. 
+
 */
 
 
