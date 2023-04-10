@@ -1,4 +1,9 @@
 package ar.edu.ort.as.thp.tarea;
+/*
+13. Realizá un programa para ingresar tres números enteros e indique cuál de ellos es el mayor y 
+su valor.
+*/
+
 
 import java.util.Scanner;
 
