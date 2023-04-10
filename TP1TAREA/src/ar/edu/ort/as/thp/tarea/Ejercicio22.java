@@ -1,5 +1,11 @@
 package ar.edu.ort.as.thp.tarea;
 
+
+
+/*
+22. Realizá un programa que muestre todos los números enteros del 1 al 5, y luego los mismos 
+números pero en orden inverso.
+*/
 import java.util.Scanner;
 
 public class Ejercicio22 {
