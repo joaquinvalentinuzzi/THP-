@@ -1,6 +1,12 @@
 package ar.edu.ort.as.thp.tarea;
 
+/*8. Realizá un programa que permita ingresar dos números naturales. Debes mostrar los 
+resultados para las 4 operaciones matemáticas básicas con los números ingresados. 
+*/
+
 import java.util.Scanner;
+
+
 
 public class Ejercicio8 {
 	static final Scanner input = new Scanner(System.in);
